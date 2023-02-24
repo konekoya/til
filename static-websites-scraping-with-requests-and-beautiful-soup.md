@@ -1,4 +1,4 @@
-## Web scraping with requests
+# Static Websites scraping with Requests and Beautiful Soup
 
 For scraping static websites, [Requests](https://pypi.org/project/requests/) and [Beautiful Soup](<(https://pypi.org/project/beautifulsoup4/)>) are the go to libraries for me.
 
