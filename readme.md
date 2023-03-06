@@ -6,8 +6,8 @@ Inspired by [Josh Branchaud](https://dev.to/jbranchaud/how-i-built-a-learning-ma
 
 ## Python
 
-- [Static Websites scraping with Requests and Beautiful Soup](/python/static-websites-scraping-with-requests-and-beautiful-soup.md)
-- [Web Scraping with Requests HTML](/python/web-scraping-with-requests-html.md)
+- [Static Web Content Scraping with Requests and Beautiful Soup](/python/static-web-content-scraping-with-requests-and-beautiful-soup.md)
+- [Dynamic Web Content Scraping with Requests HTML](/python/dynamic-web-content-scraping-with-requests-html.md)
 - [Display Web Scraping Data with Pandas](/python/display-web-scraping-data-with-pandas.md)
 
 ## CSS

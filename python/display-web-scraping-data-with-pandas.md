@@ -1,6 +1,6 @@
 # Display Web Scraping Data with Pandas
 
-Pandas is a very good tool for data analyzing and parsing. But it can also be handy when you're scraping data from the web and want to view it in the terminal or even save as _.csv_ or _.json_ etc.
+Pandas is a very good tool for data analysis and parsing. It can also be useful when scraping data from the web, whether you want to view it in the terminal or save it as a .csv or .json file, among other formats.
 
 ```py
 import pandas as pd
