@@ -4,6 +4,10 @@
 
 Inspired by [Josh Branchaud](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9)
 
+## JavaScript
+
+- [Get All Elements from a Form](js/get-all-elements-from-a-form.md)
+
 ## Python
 
 - [Static Web Content Scraping with Requests and Beautiful Soup](/python/static-web-content-scraping-with-requests-and-beautiful-soup.md)
