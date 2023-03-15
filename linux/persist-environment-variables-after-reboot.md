@@ -1,6 +1,4 @@
-# Persist Environment Variables after Reboot
-
-If you want to persist environment variables after reboot, there's a simple command you can use.
+# Persist Environment Variables After Reboot
 
 I've just come across a way to persist env variables after reboot with a simple command.
 
