@@ -15,6 +15,7 @@ Inspired by [Josh Branchaud](https://dev.to/jbranchaud/how-i-built-a-learning-ma
 - [Dynamic Web Content Scraping with Requests HTML](/python/dynamic-web-content-scraping-with-requests-html.md)
 - [Display Web Scraping Data with Pandas](/python/display-web-scraping-data-with-pandas.md)
 - [Scrape Data From an API Endpoint](/python/scrape-data-from-an-api-endpoint.md)
+- [Scrape Dynamic Data with Playwright](/python/scrape-dynamic-data-with-playwright.md)
 
 ## CSS
 
