@@ -25,3 +25,7 @@ Inspired by [Josh Branchaud](https://dev.to/jbranchaud/how-i-built-a-learning-ma
 
 - [Add a New User in CentOS](linux/add-a-new-user-in-centos.md)
 - [Persist Environment Variables after Reboot](linux/persist-environment-variables-after-reboot.md)
+
+## GitHub Actions
+
+- [Create a Scheduled GitHub Action](/github-actions/create-a-scheduled-github-action.md)
