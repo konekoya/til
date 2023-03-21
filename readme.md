@@ -30,3 +30,7 @@ Inspired by [Josh Branchaud](https://dev.to/jbranchaud/how-i-built-a-learning-ma
 ## GitHub Actions
 
 - [Create a Scheduled GitHub Action](/github-actions/create-a-scheduled-github-action.md)
+
+## Browsers
+
+- [Take a Full Screenshot with Chromium Browsers](/chromium-browsers/take-a-full-screenshot-with-chromium-browsers.md)
