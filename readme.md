@@ -33,4 +33,4 @@ Inspired by [Josh Branchaud](https://dev.to/jbranchaud/how-i-built-a-learning-ma
 
 ## Browsers
 
-- [Take a Full Screenshot with Chromium Browsers](/chromium-browsers/take-a-full-screenshot-with-chromium-browsers.md)
+- [Take a Full Screenshot with Chromium Browsers](/browsers/take-a-full-screenshot-with-chromium-browsers.md)
