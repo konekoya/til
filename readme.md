@@ -26,6 +26,7 @@ Inspired by [Josh Branchaud](https://dev.to/jbranchaud/how-i-built-a-learning-ma
 
 - [Add a New User in CentOS](linux/add-a-new-user-in-centos.md)
 - [Persist Environment Variables after Reboot](linux/persist-environment-variables-after-reboot.md)
+- [Setting up a Cron Job on Linux Machines](linux/setting-up-a-cron-job-on-linux-machines.md)
 
 ## GitHub Actions
 
