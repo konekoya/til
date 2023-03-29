@@ -43,18 +43,24 @@ def run(playwright: Playwright) -> None:
     context = browser.new_context()
     page = context.new_page()
     page.goto("https://playwright.dev/")
+
+    # Tap into the search box and search "codegen"
     page.get_by_role("button", name="Search").click()
     page.get_by_placeholder("Search docs").fill("codegen")
+
+    # Select the correct docs link
     page.locator("#docsearch-item-0").get_by_role("link",
                                                   name="Running Codegen​ Test generator").click()
     page.get_by_role(
         "heading", name="Running CodegenDirect link to Running Codegen").click()
 
+    # The next page link is located in the bottom of the view
     page.mouse.wheel(0, 4000)
 
     # These sleeps help to slow down the UI interactions so you can see what's actually done during the run
     time.sleep(2)
     page.locator(".pagination-nav__link--next").click()
+
     time.sleep(3)
 
     # ---------------------
