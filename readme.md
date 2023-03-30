@@ -8,6 +8,7 @@ Inspired by [Josh Branchaud](https://dev.to/jbranchaud/how-i-built-a-learning-ma
 
 - [Get All Elements From a Form](js/get-all-elements-from-a-form.md)
 - [Convert NodeList and HTMLCollection to JS Array](js/convert-nodelist-and-htmlcollection-to-js-array.md)
+- [Use Object.hasOwn to check Object properties in JavaScript](js/use-object-hasown-to-check-properties-in-javascript.md)
 
 ## Python
 
@@ -16,7 +17,7 @@ Inspired by [Josh Branchaud](https://dev.to/jbranchaud/how-i-built-a-learning-ma
 - [Display Web Scraping Data with Pandas](/python/display-web-scraping-data-with-pandas.md)
 - [Scrape Data From an API Endpoint](/python/scrape-data-from-an-api-endpoint.md)
 - [Scrape Dynamic Data with Playwright](/python/scrape-dynamic-data-with-playwright.md)
-- [Use Playwright Codegen to Automatically Record UI Interactions](python/use-playwright-codegen-to-automatically-record-ui-interactions.md)
+- [Use Playwright Codegen to Automate UI Interactions](python/use-playwright-codegen-to-automate-ui-interactions.md)
 
 ## CSS
 
