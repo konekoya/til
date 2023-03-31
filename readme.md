@@ -37,3 +37,7 @@ Inspired by [Josh Branchaud](https://dev.to/jbranchaud/how-i-built-a-learning-ma
 ## Browsers
 
 - [Take a Full Screenshot with Chromium Browsers](/browsers/take-a-full-screenshot-with-chromium-browsers.md)
+
+## Google
+
+- [Retrieving Your Browser Headers Using Google](/google/retrieving-your-browser-headers-using-google.md)
