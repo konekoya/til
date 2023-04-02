@@ -1,6 +1,6 @@
 # Get All Elements From a Form
 
-An HTML form may contain elements like `input`, `select` or `textarea`. When working with JavaScript, you can grab all elements of a particular form by using: `form:elements`
+An HTML form may contain elements like `input`, `select` or `textarea`. When working with JavaScript, you can grab all elements of a particular form by using: `form.elements`
 
 ```html
 <h1>Login</h1>
