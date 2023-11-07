@@ -9,6 +9,7 @@ Inspired by [Josh Branchaud](https://dev.to/jbranchaud/how-i-built-a-learning-ma
 - [Get All Elements From a Form](js/get-all-elements-from-a-form.md)
 - [Convert NodeList and HTMLCollection to JS Array](js/convert-nodelist-and-htmlcollection-to-js-array.md)
 - [Use Object.hasOwn to check Object properties in JavaScript](js/use-object-hasown-to-check-properties-in-javascript.md)
+- [Memorization function](js/memorization-function.md)
 
 ## Python
 
