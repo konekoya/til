@@ -1,1 +1,4 @@
-.readme.md.un~
+# Ignore backup and temporary files created by text editors and software.
+# Files ending with a tilde (~) are commonly used for temporary or backup purposes.
+
+*~
