@@ -24,6 +24,7 @@ Inspired by [Josh Branchaud](https://dev.to/jbranchaud/how-i-built-a-learning-ma
 
 - [Position fixed under transform elements will no longer has fixed behavior](/css/position-fixed-under-transform-elements-will-no-longer-has-fixed-behavior.md)
 - [Create a Full Screen Background Image with Object Fit](/css/create-a-full-screen-background-image-with-object-fit.md)
+- [Stick footer with Flexbox](/css/stick-footer-with-flexbox.md)
 
 ## Linux
 
